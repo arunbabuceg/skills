@@ -8,6 +8,10 @@ import { LeftComponent } from './left/left.component';
 import { HeroComponent } from './hero/hero.component';
 import { NumbersComponent } from './numbers/numbers.component';
 import { ValueComponent } from './value/value.component';
+import { LearnComponent } from './learn/learn.component';
+import { StudentsComponent } from './students/students.component';
+import { GrowComponent } from './grow/grow.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +20,11 @@ import { ValueComponent } from './value/value.component';
     LeftComponent,
     HeroComponent,
     NumbersComponent,
-    ValueComponent
+    ValueComponent,
+    LearnComponent,
+    StudentsComponent,
+    GrowComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
