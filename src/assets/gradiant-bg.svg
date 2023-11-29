@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1694.478" height="1161" viewBox="0 0 1694.478 1161">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7bd4f1"/>
+      <stop offset="0.155" stop-color="#92c8f2"/>
+      <stop offset="0.308" stop-color="#c0c0f4"/>
+      <stop offset="0.616" stop-color="#dabde7"/>
+      <stop offset="0.799" stop-color="#e395d1"/>
+      <stop offset="1" stop-color="#f2879c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1910.522 -3202)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1694" height="1161" transform="translate(1911 3202)" fill="url(#linear-gradient)"/>
+    <path id="Path_3" data-name="Path 3" d="M1902.568,3892.25c361.952-33.5,765.04,469.931,765.04,469.931" transform="translate(8)" fill="none" stroke="rgba(255,255,255,0.29)" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M1902.568,3892.663c415.216-42.163,877.62,591.517,877.62,591.517" transform="translate(8.432 -122)" fill="none" stroke="rgba(255,255,255,0.29)" stroke-width="1"/>
+  </g>
+</svg>
